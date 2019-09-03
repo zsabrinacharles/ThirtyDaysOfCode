@@ -49,7 +49,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Day2.Solution</StartupObject>
+    <StartupObject>Day3.Solution</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -65,6 +65,7 @@
     <Compile Include="Day0\Solution.cs" />
     <Compile Include="Day1\Solution.cs" />
     <Compile Include="Day2\Solution.cs" />
+    <Compile Include="Day3\Solution.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
