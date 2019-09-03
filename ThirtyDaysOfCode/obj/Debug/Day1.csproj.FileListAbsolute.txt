@@ -1,0 +1,6 @@
+C:\Users\zcharles\Documents\Visual Studio 2015\Projects\ThirtyDaysOfCode\ThirtyDaysOfCode\bin\Debug\ThirtyDaysOfCode.exe.config
+C:\Users\zcharles\Documents\Visual Studio 2015\Projects\ThirtyDaysOfCode\ThirtyDaysOfCode\bin\Debug\ThirtyDaysOfCode.exe
+C:\Users\zcharles\Documents\Visual Studio 2015\Projects\ThirtyDaysOfCode\ThirtyDaysOfCode\bin\Debug\ThirtyDaysOfCode.pdb
+C:\Users\zcharles\Documents\Visual Studio 2015\Projects\ThirtyDaysOfCode\ThirtyDaysOfCode\obj\Debug\Day1.csprojResolveAssemblyReference.cache
+C:\Users\zcharles\Documents\Visual Studio 2015\Projects\ThirtyDaysOfCode\ThirtyDaysOfCode\obj\Debug\ThirtyDaysOfCode.exe
+C:\Users\zcharles\Documents\Visual Studio 2015\Projects\ThirtyDaysOfCode\ThirtyDaysOfCode\obj\Debug\ThirtyDaysOfCode.pdb
